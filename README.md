@@ -18,9 +18,8 @@ The main objective is to showcase **data engineering**, **pipeline automation**,
 ## Tech Stack
 - **Python** → Pandas, NumPy, Requests, Spotipy  
 - **Spotify API** → for raw data  
-- **SQL / PostgreSQL / MySQL** → for data storage  
-- **Airflow / Prefect (optional)** → for automation  
-- **Git & GitHub** → version control  
+- **MySQL** → for data storage  
+
 
 ---
 
